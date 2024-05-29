@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/rookie-im-server/src/main/resources/application-prod.properties
+/rookie-im-server/src/main/resources/application-test.properties
